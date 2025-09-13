@@ -26,15 +26,15 @@ Welcome to my GitHub! I'm a computer engineer with a passion for web and game de
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?menrod=menrod&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?menrod=menrod&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menrod&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menrod&layout=compact&theme=tokyonight)
+<!--
 ---
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- Replace this section with your blog post feed using GitHub Actions or a manual list -->
-- [How I Built My Portfolio with React and Tailwind](#)
+<!-- - [How I Built My Portfolio with React and Tailwind](#)
 - [10 Tips to Improve Your Git Workflow](#)
 <!-- BLOG-POST-LIST:END -->
 
