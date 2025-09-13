@@ -46,6 +46,3 @@ Welcome to my GitHub! I'm a computer engineer with a passion for web and game de
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/nemrodbaquiran)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://yourportfolio.com)](https://yourportfolio.com) -->
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
