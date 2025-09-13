@@ -5,11 +5,13 @@ Welcome to my GitHub! I'm a computer engineer with a passion for web and game de
 ## 🚀 About Me
 
 <!-- - 🎓 I'm currently [studying / working as a ...] -->
-- 🛠️ Working on: [a health tracker app, and a html5 game]
+- 🛠️ Working on: [health tracker app, html5 game]
 - 🌱 Learning: [Godot, AI/ML development]
 <!-- - 💬 Ask me about: [skills you're confident in] -->
 - 📫 How to reach me:
+  <br>
   📧 Gmail: [menrod.baqs@gmail.com]
+  <br>
   🔗 LinkedIn: [linkedin.com/in/nemrodbaquiran](https://linkedin.com/in/nemrodbaquiran)
 <!-- - 🧠 Fun fact: [fun or interesting personal tidbit] -->
 
@@ -17,16 +19,21 @@ Welcome to my GitHub! I'm a computer engineer with a passion for web and game de
 
 ## 🧰 Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c#,bash)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,vuejs,quasar,springboot)
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
-![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,docker)
+- Languages: <br>
+  ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,bash,graphql,ruby,cs,cpp)
+- Frameworks: <br>
+  ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,vuejs,spring,laravel)
+- Databases: <br>
+  ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,elasticsearch)
+- Tools: <br>
+  ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,arch,vscode,docker,obsidian)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menrod&show_icons=true&theme=tokyonight)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menrod&layout=compact&theme=tokyonight)
 <!--
 ---
